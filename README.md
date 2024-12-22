@@ -2,7 +2,7 @@
 hashset-book-store-inventory-system
 
 # Project Overview  
-The Core Java has set book store inventory system project is a basic Java application that demonstrates a book inventory system. It utilizes object-oriented programming principles and simulates the interactions between customers, books and suppliers.
+The Core Java hash set book store inventory system project is a basic Java application that demonstrates a book inventory system. It utilizes object-oriented programming principles and simulates the interactions between customers, books and suppliers.
 
 # Features   
 * Manage customer information.
